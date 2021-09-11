@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-color: darkorchid;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+#myname {
+    font-family: fantasy;
+    text-decoration-color: aqua;
+}
+
+#welcome {
+    padding: 70px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+#paragraph {
+    font-size: 18px;
+    color: chartreuse;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 42;
+    background-color: deeppink;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color:black;
+}
+.link{
+    color: aquamarine;
+    display: inline;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover{background-color: burlywood};
+
+
+
+.i{
+    font-size: 35px;
+}
